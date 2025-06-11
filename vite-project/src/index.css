@@ -32,3 +32,16 @@ h2 {
   border-radius: 10px;
   min-height: 100px;
 }
+
+button {
+  background-color: transparent;
+  color: #151515;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
