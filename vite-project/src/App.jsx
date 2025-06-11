@@ -13,8 +13,7 @@ const Card = ({ title }) => {
 
 const App = () => {
   return (
-    <div>
-      <h2>Functional App Components</h2>
+    <div className='card-container'>
       <Card title="Star Wars" />
       <Card title="Avatar" />
       <Card title="The Lion King" />
