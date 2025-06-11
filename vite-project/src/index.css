@@ -12,9 +12,8 @@ body {
 
 h2 {
   color: #f3f3f3;
-  font-size: 1.5rem;
+  font-size: 48 px;
   text-align: center;
-  margin-bottom: 20px;
 }
 
 .card-container {
@@ -23,4 +22,13 @@ h2 {
   align-items: center;
   max-width: 1024px;
   margin: 0 auto;
+}
+
+.card {
+  border: 1px solid #f3f3f3;
+  padding: 20px;
+  margin: 10px;
+  background-color: #31363f;
+  border-radius: 10px;
+  min-height: 100px;
 }
